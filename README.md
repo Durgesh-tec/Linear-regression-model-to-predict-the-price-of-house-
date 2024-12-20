@@ -1,4 +1,4 @@
-# Linear-regression-model-to-predict-the-price-of-house-
+# Linear-regression
 {
  "cells": [
   {
